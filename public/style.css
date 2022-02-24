@@ -4,4 +4,35 @@ html {
 h1 {
     font-family: monospace;
     display: flex;
+    margin-left: 200px;
 }
+h2 {
+    display: center;
+    
+}
+.box{
+    width: 320px;
+    color: aquamarine;
+    border: 15px solid green;
+    height: 320px;
+    display: block;
+    background-color: aqua;
+    margin: 20px;
+}
+#bigbox{
+    width: 800px;
+    color: blue;
+    height: 1000px;
+    background-color: brown;
+    margin-top: 100px;
+}
+
+/* <body>
+    <h1>Hello there</h1>
+    <h2>What is up yall</h2>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div id="bigbox"></div>
+    
+</body> */
